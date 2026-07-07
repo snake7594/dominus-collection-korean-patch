@@ -1,4 +1,4 @@
-# 캐슬바니아 도미누스 컬렉션 한글 개선패치 — Steam 최신판용 (v2)
+# 캐슬바니아 도미너스 컬렉션 한글 개선패치 — Steam 최신판용 (v2)
 
 **대상:** Castlevania Dominus Collection (Steam, 최신 빌드) — `windata\alldata.bin`
 **형식:** xdelta3 (VCDIFF)
