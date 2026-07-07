@@ -16,7 +16,7 @@ import sys, os, hashlib, shutil
 PATCH = os.path.join(os.path.dirname(os.path.abspath(__file__)), 'DominusKorean_Steam_v2.xdelta')
 BASE_SHA1 = 'ba2377dd7ce22896723b8de5c9000e067d1c8b95'   # V4 한글 적용 상태
 BASE_SIZE = 1279606784
-OUT_SHA1  = 'a01713c8e62ccbe4207f230d5089a5a558b82a2e'   # 개선 적용 후
+OUT_SHA1  = 'f8d4739dd1520459e53536e82e21e8f79eab2dcb'   # 개선 적용 후
 
 
 def sha1(path):
